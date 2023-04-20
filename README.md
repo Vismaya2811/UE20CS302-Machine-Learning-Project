@@ -8,4 +8,4 @@ Instructions to run:
 
 `cd ../UE20CS302-Machine-Learning-Project/`  
 
-`flask run`  
+`python -m flask run`  
