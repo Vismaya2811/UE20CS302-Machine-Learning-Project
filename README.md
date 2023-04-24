@@ -2,9 +2,7 @@
 Attendance Manangement System Using Face Detection  
 
 This system aims to build an effective class attendance system using face recognition
-techniques. The proposed system will be able to mark the attendance via face Id. It will detect
-faces via webcam and then recognize the faces. After recognition, it will mark the attendance of
-the recognized student and update the attendance record. 
+techniques. The system will detect faces via webcam and then recognize the faces using a KNN model. After recognition, it will mark the attendance of the recognized student in a CSV file  
 
 To run this app we must have flask installed.  
 
